@@ -71,9 +71,6 @@ Enlaces a la página web del [IES Celia Viñas][1] y a [GitHub][2].
 | Fila 2.1     | Fila 2.2     | Fila 2.3     |
 | Fila 3.1     | Fila 3.2     | Fila 3.3     |
 
-## Enlace a otro documento
-[Enlace a otro documento](otro_documento.md)
-
 ## Forzar un salto de línea
 Por ejemplo, en esta frase  
 Hemos forzado un salto de línea
@@ -88,3 +85,9 @@ Párrafo 1.
 <!- Este texto es un comentario y no será renderizado -->
 
 Párrafo 2.
+
+## Enlace a url de imagen
+[![Logo de GitHub](/Pr-ctica-Markdown/images/github-6980894_640.png)](https://github.com)
+
+## Enlace al documento Markdown
+[Markdown.md](/Pr-ctica-Markdown/Markdown.md)
